@@ -1,3 +1,5 @@
+<h1 align="center"> DOCUMENTAÇÃO DAS MEDIDAS </h1>
+
 Foi utilizada a função “MAXX” para calcular o máximo dentro de um argumento: 
 
 Maior média por tipo de escola =  
