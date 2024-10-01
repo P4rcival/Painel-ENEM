@@ -3,9 +3,9 @@
 Foi utilizada a função “MAXX” para calcular o máximo dentro de um argumento: 
 
 Maior média por tipo de escola =  
-MAXX( 
-    KEEPFILTERS(VALUES('MICRODADOS_ENEM_2020'[TP_ESCOLA])), 
-    CALCULATE([foi a média geral de nota]) 
+MAXX(
+  KEEPFILTERS(VALUES('MICRODADOS_ENEM_2020'[TP_ESCOLA])), 
+  CALCULATE([foi a média geral de nota]) 
 ) 
 
 Foi gerado uma média de cada uma das provas, para realizar uma visão geral de cada uma das matérias: 
